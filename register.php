@@ -16,4 +16,4 @@ $queryString = LINE_API_URI . http_build_query($queryStrings);
 
 ?>
 
-<a href="<?php echo $queryString; ?>">Register</a>
+<a href="<?php echo $queryString; ?>">Register 123</a>
